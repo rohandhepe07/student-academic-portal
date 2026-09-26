@@ -2,6 +2,11 @@
 
 A responsive Student Profile and Academic Portal webpage developed as a college practical project.
 
+## Details
+Institution: A. P. Shah Institute of Technology
+Department: Information Technology
+Student: Rohan Dhepe
+
 ## Technologies Used
 
 * **HTML5** – Used to create the structure and content of the webpage.
